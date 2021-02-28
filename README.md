@@ -30,13 +30,14 @@
 
 ```bash
 $ npm install
+$ npm install -g nodemon
 ```
 
 ## Running the app
 
 ```bash
 # development
-$ npm run start
+$ npm run debug
 
 # watch mode
 $ npm run start:dev
